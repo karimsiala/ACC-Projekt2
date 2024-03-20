@@ -37,6 +37,8 @@ Die Übertragung erfolgt mit einer Baudrate von 115200.
 - `RX1/TX1` wird für den Sensor 1 verwendet
 - `RX2/TX2` wird für den Sensor 2 verwendet
 - `RX3/TX3` wird für den Sensor 3 verwendet
+  
+![Untitled Sketch 2_Schaltplan](https://github.com/karimsiala/ACC-Projekt2/assets/61633482/61d0bf0e-5613-4a12-ad2b-9aaba742a9de)
 
 ### Verwendung
 
